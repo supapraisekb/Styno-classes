@@ -34,16 +34,25 @@ The Screenshot below shows the directory structure of Linux using the ls command
 
    ![Navigating the Dev Directory](/assets/Navigating_to_the_dev_directory.JPG)
  
-    -  Home Directory
-
+  -  Home Directory
+    
+    
     ```bash
 
     cd home && pwd
-
+    
     ```
 
 ![Navigating the Home Directory](/assets/navigating_to_the_home_directory.JPG)
 
+
+- Mnt Directory
+
+```bash
+
+cd mnt && pwd
+
+```
 
 ![Navigating the mnt Directory](/assets/Navigating_to_the_mnt_directory.JPG)
 
@@ -93,6 +102,8 @@ sudo cp hackedfile /root/secretfile
 ```
 
 the screenshot for the implementation is shown below:
+
+![Implementation of exercise 5](/assets/exercise_5_implementation.JPG)
 
 
 
